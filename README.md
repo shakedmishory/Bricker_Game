@@ -3,7 +3,7 @@
 ## Overview
 Bricker Game is a Java game where you break bricks with a paddle and ball. It features life counters, special brick strategies, and graphics.
 The player controls the paddle to bounce the ball and break the bricks, the goal is to clear all bricks without the ball falling off the screen.
-<img src="[https://github.com/favicon.ico](https://github.com/shakedmishory/Bricker_Game/assets/142403126/07889a28-c593-4025-aab1-44ea8e4a0584)" width="48">
+<img src="[https://github.com/shakedmishory/Bricker_Game/assets/142403126/07889a28-c593-4025-aab1-44ea8e4a0584]" width="48">
 
 ![image](https://github.com/shakedmishory/Bricker_Game/assets/142403126/07889a28-c593-4025-aab1-44ea8e4a0584)
 
