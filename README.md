@@ -26,7 +26,7 @@ The player controls the paddle to bounce the ball and break the bricks, the goal
 ## Dependencies
 - danogl library (not included in the repository - can be found here: "https://danthe1st.itch.io/danogamelab")
 
-## How it Looks
+## Interface
 ![image](https://github.com/shakedmishory/Bricker_Game/assets/142403126/07889a28-c593-4025-aab1-44ea8e4a0584)
 
 
